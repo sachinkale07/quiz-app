@@ -1,0 +1,14 @@
+/* src/components/Question.css */
+.card {
+    width: 50%;
+    margin: auto;
+    margin-top: 100px; 
+
+  }
+  
+  .timer {
+    font-size: 1.2em;
+    color: #dc3545;
+    font-weight: bold;
+  }
+  
